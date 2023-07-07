@@ -1,14 +1,16 @@
 👋 Hello, I'm Nedgyn!
 
-📊 Aspiring Data Analyst | Python Enthusiast | Visual Storyteller
+📊 Data Analyst | Problem Solver | Insights Seeker
 
-💡 I'm passionate about extracting insights from data and using it to drive informed decision-making. With a strong foundation in data analysis and visualization, I thrive on transforming complex datasets into compelling visual narratives.
+💡 I am a data analyst with a passion for extracting valuable insights from complex datasets. I excel at analyzing data, uncovering patterns, and translating findings into actionable recommendations.
 
-🔬 Skills: Data Analysis, Data Visualization, Python, SQL, Excel, Tableau
+🔬 Skills: Data Analysis, Data Visualization, Python, SQL, Excel, Tableau, Power BI and Data Cleaning
 
-🌱 Currently honing my skills in machine learning and predictive analytics to unlock deeper patterns and trends hidden within data.
+🌱 Continuously exploring new techniques and tools to enhance my data analysis capabilities. Currently diving deeper into machine learning and predictive modeling.
 
-📚 Constant learner and eager to collaborate with like-minded professionals in the field of data analytics.
+📚 Strong communicator with the ability to present data-driven insights to both technical and non-technical stakeholders.
+
+🚀 Dedicated to making data-driven decisions and finding innovative solutions to real-world problems.
 
 📫 Let's connect! Feel free to reach out to me via email or LinkedIn.
 
